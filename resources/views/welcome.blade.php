@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1 class="p-10 border-b-8 border-indigo-900 text-3xl font-bold  text-sky-400">
-    Asims newsletter 1 -13 September 2024
+    Asims newsletter 1 -13 September 2024--...
   </h1>
 
   <h1 class="p-10 py-1 px-3 text-orange-400  text-3xl font-bold" >
